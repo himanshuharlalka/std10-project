@@ -1,4 +1,4 @@
-import java.util.*;
+﻿import java.util.*;
 class main
 {
     public static void main(String arg[])
@@ -10,35 +10,7 @@ class main
        String paintn="";
        double paint=0.0;
        Scanner sc = new Scanner(System.in);
-       System.out.println("**             ** ** * * * *  **            ****      ****     **          **  ** * * * *        ");             
-       System.out.println(" **           **  **          **          **        **    **   ** *      * **  **        ");
-       System.out.println("  **    *    **   ** * *      **         **        **      **  **  *    *  **  ** * *");
-       System.out.println("   ** ** ** **    **          **          **        **    **   **   *  *   **  **       ");           
-       System.out.println("    **     **     ** * * * *  ** * * * *    ****      ****     **    **    **  ** * * * *  ");                             
-       System.out.println("");
-       System.out.println("              * * * * * *    ****          * * * * * *  **     **  ** * * * *  ");                                                      
-       System.out.println("                  **       **    **            **       **     **  **             ");  
-       System.out.println("                  **      **      **           **       ** * * **  ** * *            ");         
-       System.out.println("                  **       **    **            **       **     **  **                ");
-       System.out.println("                  **         ****              **       **     **  ** * * * *");
-       System.out.println("                                                                                ");                                    
-       System.out.println("**             **     ****      ** * *     **          ** * *           ****     ** * * * *");                                                                                                                               
-       System.out.println(" **           **    **    **    **     *   **          **     *       **    **   **        ");                                                                                                                      
-       System.out.println("  **    *    **    **      **   ** * *     **          **      *     **      **  ** * *    ");                                           
-       System.out.println("   ** ** ** **      **    **    **   *     **          **     *       **    **   **        ");                                       
-       System.out.println("    **     **         ****      **     *   ** * * * *  ** * *           ****     **        ");                                        
-       System.out.println("                                                                                           ");          
-       System.out.println("                        * * * * * * **             **    ****                              ");                                             
-       System.out.println("                            **       **           **   **    **                            ");                                     
-       System.out.println("                            **        **    *    **   **      **                           ");                               
-       System.out.println("                            **         ** ** ** **     **    **                            ");                              
-       System.out.println("                            **          **     **        ****                 ");
-       System.out.println("                                                                                 ");                                   
-       System.out.println("**             ** **    **  ** * * * *  ** * * * *  **          ** * * * *  ** * *      * * *  ");                                             
-       System.out.println(" **           **  **    **  **          **          **          **          **     *  *        ");                              
-       System.out.println("  **    *    **   ** ** **  ** * *      ** * *      **          ** * *      ** * *       * *    ");                                
-       System.out.println("   ** ** ** **    **    **  **          **          **          **          **   *           *   ");                          
-       System.out.println("    **     **     **    **  ** * * * *  ** * * * *  ** * * * *  ** * * * *  **     *   * * *     ");          
+            
        System.out.println("Our company provides the best brands of two wheelers and always gives the best service possible");
        System.out.println("We provide free home delivery of your two wheeler.");
        System.out.println("For each of the purchases, there is a tax added to it. All the details of taxes will be mentioned in the bill");
